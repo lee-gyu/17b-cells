@@ -1,0 +1,14 @@
+{
+  "name": "@lee-gyu/spreadsheet",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "",
+  "exports": {
+    "./src/*": "./src/*"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Lee Gyu <leegyu4dev@gmail.com>",
+  "license": "ISC"
+}
