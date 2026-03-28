@@ -1,1 +1,2 @@
-export { SpreadSheet } from "./core/spread-sheet.js";
+export { SpreadsheetView } from "./view/view-engine";
+export * from "./utils";
