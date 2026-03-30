@@ -1,3 +1,5 @@
 packages:
   - spreadsheet/
   - storybook/
+allowBuilds:
+  esbuild: true
